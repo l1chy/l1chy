@@ -9,57 +9,68 @@
 
 ## 👤 About Me
 
-A driven and technically precise **Cybersecurity Analyst** specializing in security monitoring, threat detection, and incident response. I bridge the gap between theoretical knowledge and practical application by building hands-on defense environments, analyzing live traffic, and engineering automation scripts to streamline security workflows. 
+A driven, detail-oriented **Cybersecurity Analyst** specializing in security monitoring, threat detection, and system defensive hardening. I focus on bridging fundamental computer science and programming concepts with modern defensive security tactics. Currently immersed in deep-dive training for enterprise environments, analyzing logs, and engineering scripts to automate alert workflows.
 
-* 🔭 **Current Focus:** Investigating advanced SIEM engineering, log analysis, and sharpening blueprint defense tactics.
-* ⚡ **Core Philosophy:** *Visibility is everything. If it isn't logged, it didn't happen.*
+* 🔭 **Current Focus:** Mastery of SIEM telemetry, Linux/Windows endpoint security, and network visibility.
+* ⚡ **Core Philosophy:** *Continuous learning isn't a phase; it's the core operational requirement of an analyst.*
 
 ---
 
 ## 🛠️ Core Technical Skills
 
-### 🖥️ Security Operations & Monitoring
+### 🖥️ Security Operations & Monitoring (In Progress)
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-0052CC?style=flat-square&logo=splunk&logoColor=white)
-![EDR](https://img.shields.io/badge/EDR%20%2F%20XDR-Wazuh%20%7C%20LimaCharlie-000000?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark%20%7C%20Tshark-167EBA?style=flat-square&logo=wireshark&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS%20%2F%20IPS-Snort%20%7C%20Suricata-E24A1F?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark-167EBA?style=flat-square&logo=wireshark&logoColor=white)
+![SOC Fundamentals](https://img.shields.io/badge/Defensive%20Security-Incident%20Response%20%7C%20Threat%20Triage-E24A1F?style=flat-square)
 
 ### 💻 Infrastructure & Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali%20%7C%20Mint-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20Pro%20%7C%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-TCP%20%2F%20IP%20%7C%20Firewalls%20%7C%20VLANs-00599C?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-TCP%20%2F%20IP%20%7C%20Routing%20%26%20Switching-00599C?style=flat-square)
 
 ### 🐍 Automation & Scripting
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Scripting-Bash%20%7C%20PowerShell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Basics-HTML5%20%7C%20CSS3%20%7C%20JS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
-## 🧪 Hands-On Cyber Projects & Labs
+## 🧪 Skills Validation & Active Labs
 
+> 💡 *While my comprehensive project portfolios are currently in development, I am consistently applying my skills through rigorous hands-on lab environments:*
 
-/SOON/
+| Learning Engine / Focus | Core Tools & Concepts | Practical Skills Validated |
+| :--- | :--- | :--- |
+| 🛡️ **TryHackMe Labs** | `Linux CLI`, `Network Protocols`, `SOC Basics` | Actively analyzing defensive methodologies, log tracking, and basic incident triage frameworks. |
+| 🐍 **Python Security Scripting** | `Python 3`, `Data Structures`, `Automation` | Developing foundational code logic to parse text data, automate administrative OS tasks, and solve algorithmic logic problems. |
+| 🌐 **Web Infrastructure** | `HTTP/S`, `Web Architecture`, `DOM` | Utilizing web design fundamentals to understand application flows, tracking web session behaviors, and identifying potential web application vulnerabilities. |
 
 ---
 
 ## 🎓 Certifications & Education
 
-### 🏆 Professional Certifications
-* **Google Cybersecurity Certificate** — *Validated expertise in foundational network security, threat vectors, and incident response playbooks.*
-* **TryHackMe SEC0** — *Validated expertise in foundations.*
-* **CompTIA Security+** — *In Progress / Expected [Oct-2026]*
+### 🏆 Earned Certifications & Training
+* **Web Development Challenger Track** — *Udacity*
+* **Introduction to Programming Using Python** — *Programming Hub*
+* **CS50X: Introduction to Computer Science** — *Harvard/edX (Comprehensive Core Curriculum Completion)*
+
+### 🚀 High-Priority Certifications In Progress
+* **Google Cybersecurity Professional Certificate** — *Google & Coursera*
+* **CompTIA Security+** — *CompTIA*
+* **SEC0 (Pre-Security & SOC Fundamentals)** — *TryHackMe*
+* **Programming and Problem Solving with Python** — *Codezilla*
 
 ### 🏫 Academic Background
-* **Bachelor of Arts in English** | *Mansoura University* * Developed deep analytical, documentation, and communication skills—critical assets for drafting precise, executive-ready incident reports and post-mortem security briefs.
+* **Bachelor of Arts in English** | *Mansoura University*  
+  *Developed advanced technical communication, analytical critical thinking, and structured documentation skills—crucial for engineering precise, executive-ready security alerts and incident reporting briefs.*
 
 ---
 
 ## 🤝 Let's Connect!
 
-If you're looking for an analytical, fast-learning, and proactive junior analyst to reinforce your defensive line, let's talk shop.
+If you are looking for an analytical, fast-learning, and highly disciplined junior analyst to reinforce your defensive security operations, let's connect.
 
 <p align="left">
-  <a href="https://linkedin.com/in/nagibs" target="_blank">
+  <a href="https://www.linkedin.com/in/nagibs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nagibsherifn@gmail.com">
