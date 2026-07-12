@@ -24,12 +24,13 @@ A driven, detail-oriented **Cybersecurity Analyst** specializing in security mon
 ![SOC Fundamentals](https://img.shields.io/badge/Defensive%20Security-Incident%20Response%20%7C%20Threat%20Triage-E24A1F?style=flat-square)
 
 ### 💻 Infrastructure & Operating Systems
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali%20%7C%20Mint-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20Pro%20%7C%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-TCP%20%2F%20IP%20%7C%20Routing%20%26%20Switching-00599C?style=flat-square)
 
 ### 🐍 Automation & Scripting
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Database-SQL%20Basics-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web%20Basics-HTML5%20%7C%20CSS3%20%7C%20JS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
