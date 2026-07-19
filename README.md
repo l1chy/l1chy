@@ -49,13 +49,13 @@ A driven, detail-oriented **Cybersecurity Analyst** specializing in security mon
 
 ## 🎓 Certifications & Education
 
-### 🏆 Earned Certifications & Training
+### 🏆 Earned
 * **Web Development Challenger Track** — *Udacity*
 * **Introduction to Programming Using Python** — *Programming Hub*
 * **CS50X: Introduction to Computer Science** — *Harvard/edX (Comprehensive Core Curriculum Completion)*
 * **SEC0 (Pre-Security)** — *TryHackMe*
 
-### 🚀 High-Priority Certifications In Progress
+### 🚀 In Progress
 * **Google Cybersecurity Professional Certificate** — *Google & Coursera*
 * **CompTIA Security+** — *CompTIA*
 * **SEC1 (Cybersecurity 101)** — *TryHackMe*
