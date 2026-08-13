@@ -9,9 +9,9 @@
 
 ## 👤 About Me
 
-A driven, detail-oriented **Cybersecurity Analyst** specializing in security monitoring, threat detection, and system defensive hardening. I focus on bridging fundamental computer science and programming concepts with modern defensive security tactics. Currently immersed in deep-dive training for enterprise environments, analyzing logs, and engineering scripts to automate alert workflows.
+A fast learning **Cybersecurity Analyst** specializing in security monitoring, threat detection, and system defensive hardening. Currently immersed in training and gaining hands-on experience by analyzing logs, solving labs, and continuously learning.
 
-* 🔭 **Current Focus:** Mastery of SIEM telemetry, Linux/Windows endpoint security, and network visibility.
+* 🔭 **Current Focus:** Mastery of SIEM telemetry, log analysis, and network security.
 * ⚡ **Core Philosophy:** *Continuous learning isn't a phase; it's the core operational requirement of an analyst.*
 
 ---
@@ -37,13 +37,13 @@ A driven, detail-oriented **Cybersecurity Analyst** specializing in security mon
 
 ## 🧪 Skills Validation & Active Labs
 
-> 💡 *While my comprehensive project portfolios are currently in development, I am consistently applying my skills through rigorous hands-on lab environments:*
+> 💡 *While my project portfolios are currently in development, I am consistently applying my skills through hands-on lab environments:*
 
 | Learning Engine / Focus | Core Tools & Concepts | Practical Skills Validated |
 | :--- | :--- | :--- |
 | 🛡️ **TryHackMe Labs** | `Linux CLI`, `Network Protocols`, `SOC Basics` | Actively analyzing defensive methodologies, log tracking, and basic incident triage frameworks. |
 | 🐍 **Python Security Scripting** | `Python 3`, `Data Structures`, `Automation` | Developing foundational code logic to parse text data, automate administrative OS tasks, and solve algorithmic logic problems. |
-| 🌐 **Web Infrastructure** | `HTTP/S`, `Web Architecture`, `DOM` | Utilizing web design fundamentals to understand application flows, tracking web session behaviors, and identifying potential web application vulnerabilities. |
+| 🌐 **Web Infrastructure** | `HTTP/S`, `Web Architecture`, `DOM` | Utilizing web design fundamentals to understand application flows and identifying potential web application vulnerabilities. |
 
 ---
 
@@ -63,7 +63,7 @@ A driven, detail-oriented **Cybersecurity Analyst** specializing in security mon
 
 ### 🏫 Academic Background
 * **Bachelor of Arts in English** | *Mansoura University*  
-  *Developed advanced technical communication, analytical critical thinking, and structured documentation skills—crucial for engineering precise, executive-ready security alerts and incident reporting briefs.*
+  *Developed my English proficiency, advanced communication, analytical critical thinking, and structured documentation skills.*
 
 ---
 
