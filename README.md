@@ -11,12 +11,9 @@
 
 A fast learning **Cybersecurity Analyst** specializing in security monitoring, threat detection, and system defensive hardening. Currently immersed in training and gaining hands-on experience by analyzing logs, solving labs, and continuously learning.
 
-* 🔭 **Current Focus:** Mastery of SIEM telemetry, log analysis, and network security.
-* ⚡ **Core Philosophy:** *Continuous learning isn't a phase; it's the core operational requirement of an analyst.*
-
 ---
 
-## 🛠️ Core Technical Skills
+## 🛠️ Technical Skills
 
 ### 🖥️ Security Operations & Monitoring (In Progress)
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-0052CC?style=flat-square&logo=splunk&logoColor=white)
@@ -35,7 +32,7 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 
 ---
 
-## 🧪 Skills Validation & Active Labs
+## Skills Validation & Active Labs
 
 > 💡 *While my project portfolios are currently in development, I am consistently applying my skills through hands-on lab environments:*
 
