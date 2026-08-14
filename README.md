@@ -1,4 +1,4 @@
-# 🛡️ Hey there, I'm Nagib! 
+# Hey there, I'm Nagib! 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Entry--Level%20SOC%20%2F%20Security%20Analyst-blue?style=for-the-badge&logo=shield" alt="Role Badge"/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 
 A fast learning **Cybersecurity Analyst** specializing in security monitoring, threat detection, and system defensive hardening. Currently immersed in training and gaining hands-on experience by analyzing logs, solving labs, and continuously learning.
 
@@ -15,17 +15,17 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 
 ## 🛠️ Technical Skills
 
-### 🖥️ Security Operations & Monitoring (In Progress)
+###  Security Operations & Monitoring (In Progress)
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-0052CC?style=flat-square&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark-167EBA?style=flat-square&logo=wireshark&logoColor=white)
 ![SOC Fundamentals](https://img.shields.io/badge/Defensive%20Security-Incident%20Response%20%7C%20Threat%20Triage-E24A1F?style=flat-square)
 
-### 💻 Infrastructure & Operating Systems
+###  Infrastructure & Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20Pro%20%7C%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-TCP%20%2F%20IP%20%7C%20Routing%20%26%20Switching-00599C?style=flat-square)
 
-### 🐍 Automation & Scripting
+###  Automation & Scripting
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/Database-SQL%20Basics-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web%20Basics-HTML5%20%7C%20CSS3%20%7C%20JS-E34F26?style=flat-square&logo=html5&logoColor=white)
