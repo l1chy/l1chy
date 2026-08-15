@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Focus-Incident%20Response%20%26%20Threat%20Hunting-red?style=for-the-badge" alt="Focus Badge"/>
 </p>
 
----
 
 ##  About Me
 
