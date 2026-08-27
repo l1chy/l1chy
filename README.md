@@ -47,9 +47,9 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 
 ### 🏆 Earned
 * **SEC0 (Pre-Security)** — *TryHackMe*
-* **Web Development Challenger Track** — *Udacity*
+* **Web Development Challenger Track Nanodegree** — *Udacity*
 * **Introduction to Programming Using Python** — *Programming Hub*
-* **CS50X: Introduction to Computer Science** — *Harvard/edX (Comprehensive Core Curriculum Completion)*
+* **CS50X: Introduction to Computer Science** — *Harvard/edX*
 
 ### 🚀 In Progress
 * **Google Cybersecurity Professional Certificate** — *Google & Coursera*
