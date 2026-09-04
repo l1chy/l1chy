@@ -46,6 +46,7 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 ## 🎓 Certifications & Education
 
 ### 🏆 Earned
+* **Cybersecurity 101** — *TryHackMe*
 * **SEC0 (Pre-Security)** — *TryHackMe*
 * **Web Development Challenger Track Nanodegree** — *Udacity*
 * **Introduction to Programming Using Python** — *Programming Hub*
@@ -54,7 +55,6 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 ### 🚀 In Progress
 * **Google Cybersecurity Professional Certificate** — *Google & Coursera*
 * **CompTIA Security+** — *CompTIA*
-* **SEC1 (Cybersecurity 101)** — *TryHackMe*
 * **Programming and Problem Solving with Python** — *Codezilla*
 
 ### 🏫 Academic Background
