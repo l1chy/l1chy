@@ -37,7 +37,7 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 
 | Learning Engine / Focus | Core Tools & Concepts | Practical Skills Validated |
 | :--- | :--- | :--- |
-| 🛡️ **TryHackMe Labs** | `Linux CLI`, `Network Protocols`, `SOC Basics`, `Wireshark`, `Spunk` | Actively analyzing defensive methodologies, log tracking, and basic incident triage frameworks. |
+| 🛡️ **TryHackMe Labs** | `Linux CLI`, `Network Protocols`, `SOC Basics`, `Wireshark`, `Splunk` | Actively analyzing defensive methodologies, log tracking, and basic incident triage frameworks. |
 | 🐍 **Python Security Scripting** | `Python 3`, `Data Structures`, `Automation` | Developing foundational code logic to parse text data, automate administrative OS tasks, and solve algorithmic logic problems. |
 | 🌐 **Web Infrastructure** | `HTTP/S`, `Web Architecture`, `DOM` | Utilizing web design fundamentals to understand application flows and identifying potential web application vulnerabilities. |
 
