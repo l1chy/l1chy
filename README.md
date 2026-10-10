@@ -45,19 +45,19 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 
 ## 🎓 Certifications & Education
 
-### 🏆 Earned
+###  Earned:
 * **Cybersecurity 101** — *TryHackMe*
 * **SEC0 (Pre-Security)** — *TryHackMe*
 * **Web Development Challenger Track Nanodegree** — *Udacity*
 * **Introduction to Programming Using Python** — *Programming Hub*
 * **CS50X: Introduction to Computer Science** — *Harvard/edX*
 
-### 🚀 In Progress
+###  In Progress:
 * **Google Cybersecurity Professional Certificate** — *Google & Coursera*
 * **CompTIA Security+** — *CompTIA*
 * **Programming and Problem Solving with Python** — *Codezilla*
 
-### 🏫 Academic Background
+###  Academic Background:
 * **Bachelor of Arts in English** | *Mansoura University*  
   *Developed my English proficiency, advanced communication, analytical critical thinking, and structured documentation skills.*
 
