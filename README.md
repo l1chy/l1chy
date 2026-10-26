@@ -14,10 +14,11 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 
 ## 🛠️ Technical Skills
 
-###  Security Operations & Monitoring (In Progress)
+###  Security Operations & Monitoring
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Elastic-0052CC?style=flat-square&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark-167EBA?style=flat-square&logo=wireshark&logoColor=white)
-![SOC Fundamentals](https://img.shields.io/badge/Defensive%20Security-Incident%20Response%20%7C%20Threat%20Triage-E24A1F?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Packet%20Analysis-Wireshark%20%7C%20NetworkMiner-167EBA?style=flat-square&logo=wireshark&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/NIDS%20%2F%20Detection-Snort-E24A1F?style=flat-square)
+![SOC Fundamentals](https://img.shields.io/badge/Defensive%20Security-Incident%20Response%20%7C%20Threat%20Triage-4EAA25?style=flat-square)
 
 ###  Infrastructure & Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -37,7 +38,8 @@ A fast learning **Cybersecurity Analyst** specializing in security monitoring, t
 
 | Learning Engine / Focus | Core Tools & Concepts | Practical Skills Validated |
 | :--- | :--- | :--- |
-| 🛡️ **TryHackMe Labs** | `Linux CLI`, `Network Protocols`, `SOC Basics`, `Wireshark`, `Splunk` | Actively analyzing defensive methodologies, log tracking, and basic incident triage frameworks. |
+| 🛡️ **TryHackMe Labs** | `Linux CLI`, `Network Protocols`, `SOC Basics`, `Splunk` | Actively analyzing defensive methodologies, log tracking, and basic incident triage frameworks. |
+| 🔍 **Packet & Network Forensic Analysis** | `Wireshark`, `NetworkMiner`, `Snort` | Extracting artifacts/files from PCAP captures, inspecting network traffic, and crafting rule-based alerts for signature detection. |
 | 🐍 **Python Security Scripting** | `Python 3`, `Data Structures`, `Automation` | Developing foundational code logic to parse text data, automate administrative OS tasks, and solve algorithmic logic problems. |
 | 🌐 **Web Infrastructure** | `HTTP/S`, `Web Architecture`, `DOM` | Utilizing web design fundamentals to understand application flows and identifying potential web application vulnerabilities. |
 
